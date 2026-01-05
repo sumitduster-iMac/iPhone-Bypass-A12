@@ -1,10 +1,8 @@
-Fully Open Source A12+ Bypass
+# iPhone Bypass A12+
 
-Brought to you By: @rhcp011235 / @rust_505 / @Matty_Inc (For sending me a bash version that i could use to help make this)
+Open source iOS activation bypass tool for A12+ devices.
 
-Special Thanks to @rust_505 for fixing up the last 30% or so of the code, I did not have a test device and did as best i could without one!
-
-How to for OSX (Mac) (Tested) and Linux (Untested but should be the same as mac)
+## Setup Guide
 
 Initial Setup
 
@@ -52,12 +50,13 @@ The asset.epub book gets populated with data from these requests
 
 Do not stop the server until the process fully completes!
 
-💡 Important Notes
-GUID for Generation:
+## Important Notes
 
-Get it manually from: https://hanakim3945.github.io/posts/download28_sbx_escape/
+**GUID for Generation:**
 
-Critical Reminders:
+Get it manually from external sources or generate it programmatically.
+
+**Critical Reminders:**
 
 ✅ Server must run continuously until the final reboot
 
